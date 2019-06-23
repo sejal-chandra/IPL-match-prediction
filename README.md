@@ -14,8 +14,6 @@ Tweets of IPL matches
 ### finaldata ###
 Data related to matches between 2008 and 2016 and sentiments calculated using tweets of a particular team on the day of match.
 
-Dataset has data related to matches between 2008 and 2016 
-
 ### Independent Variables: ### 
 Season, Team1, Team2, Toss winner, Toss decision, Result, Win by runs, Win by wickets, dl applied, Player of the match, Venue, Umpire 1, Umpire 2, Sentiment
 ### Target Variable: ###
