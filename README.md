@@ -2,6 +2,18 @@
 A model has been developed to predict the outcome of a match using machine learning algorithms. For this purpose, Random Forest Classifier and Support Vector Machine classifier are used.
 
 ## Data Description
+### matchdata ###
+Data related to matches between 2008 and 2016 
+
+### IPLmatch2019 ###
+Data of 47 matches of IPL 2019
+
+### twitterdata ###
+Tweets of IPL matches
+
+### finaldata ###
+Data related to matches between 2008 and 2016 and sentiments calculated using tweets of a particular team on the day of match.
+
 Dataset has data related to matches between 2008 and 2016 
 
 ### Independent Variables: ### 
