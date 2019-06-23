@@ -16,4 +16,4 @@ for i in range(matchdf['season'].size):
 
 sdf = pd.DataFrame(s)
 newdf = pd.concat([twedf,matchdf,sdf], axis=1)
-newdf.to_csv(r'F:\Mtech\Projects\Datascience_project\final\mod\finaldata.csv',index=False)
+newdf.to_csv(r'finaldata.csv',index=False)
